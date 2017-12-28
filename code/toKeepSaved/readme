@@ -1,0 +1,1 @@
+checkpoint for the ICNN model, use it with the model parameter "save_model" set to "yes" and "path_model" set to this path

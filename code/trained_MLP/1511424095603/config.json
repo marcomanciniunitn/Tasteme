@@ -1,0 +1,13 @@
+{
+    "output_directory": "../new-tests",
+    "hidden_layers": "1",
+    "db_file": "../../data/nutr_ingredient/data_no_filters.db",
+    "activation": "relu",
+    "seed": 0,
+    "batch_size": 300,
+    "hidden_layer_size": "200",
+    "epochs": 100,
+    "learning_rate": 0.1,
+    "input_file": "../../data/nutr_ingredient/data_also_original.pickle",
+    "update": "momentum"
+}
